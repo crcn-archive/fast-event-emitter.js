@@ -4,7 +4,7 @@ expect = require("expect.js")
 describe("event-emitter#", function () {
 
   it("can create an event emitter", function () {
-    new EventEmitter().setMaxListeners();
+    new EventEmitter();
   });
 
   it("throws an error if the listener is not a function", function () {
