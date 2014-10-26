@@ -1,4 +1,1 @@
-fast-event-emitter.js
-=====================
-
-simple, fast impl of node's event emitter
+Fast implementation of Node's event emitter. Simple 
