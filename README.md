@@ -1,4 +1,6 @@
-Fast implementation of Node's event emitter. Simple 
+[![Build Status](https://travis-ci.org/mojo-js/fast-event-emitter.js.svg?branch=master)](https://travis-ci.org/mojo-js/fast-event-emitter.js)
+
+Fast implementation of Node's event emitter. 
 
 Benchmark:
 
